@@ -1,3 +1,5 @@
+# Row_Match
+
 Row_Match is a level-based mobile game implemented in Unity and C#. The goal of the game is to create the maximum number of rows that have the same type of game items with limited moves.
 
 When the game launches, a levels button welcomes the user. After tapping the button, a levels popup which lists all the available levels appears. Each level offers different number of moves and grid positioning.
